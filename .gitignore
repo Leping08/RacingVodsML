@@ -1,0 +1,4 @@
+/testing/**
+/training/**
+/.vscode/**
+.DS_Store
